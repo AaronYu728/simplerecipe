@@ -36,9 +36,7 @@ http://localhost:3000.
 
 ## Acknowledgements
 
-```
-[Node.js](https://nodejs.org/en)
-[Express.js](https://expressjs.com/)
-[EJS](https://ejs.co/)
+[Node.js](https://nodejs.org/en)  
+[Express.js](https://expressjs.com/)  
+[EJS](https://ejs.co/)  
 [Body-Parser](https://www.npmjs.com/package/body-parser)
-```
