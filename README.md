@@ -21,9 +21,7 @@ cd simplerecipe
 
 ```
 npm install
-npm install express
-npm install body-parser
-npm install ejs
+
 ```
 
 ## 3. Run the application:
